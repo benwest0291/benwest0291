@@ -1,9 +1,9 @@
-<h3 align="center"> Hi 👋, I'm Ben 🤓 a Web Development Bootcamp graduate🎓 from Le Wagon London 💻</h3>
-<h3 align="center">A passionate full stack developer from Maidstone 🏢</h3>
+<h3 align="center"> Hi 👋, I'm Ben 🤓 a Web Development Bootcamp graduate🎓 from Le Wagon London 💻🚀</h3>
+<h3 align="center">A passionate Full Stack Developer🤓💻 from Maidstone 🏢</h3>
 
 <h3 align="center">  🌱 I’m currently learning <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></h3>
 
-<h3 align="center">  📫 you can reach me @ info@benwestwebdesign.co.uk</h3>
+<h3 align="center">  📫 You can reach me @ info@benwestwebdesign.co.uk</h3>
 
 
 <h3 align="center">My tool kit:</h3>
