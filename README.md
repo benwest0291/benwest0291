@@ -10,9 +10,7 @@
 
 <div align="center">
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api/?username=benwest0291&show_icons=true&theme=tokyonight)](https://github.com/eriisu/github-readme-stats)
-</div>
 
-<div align="center">
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=benwest0291&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/benwest0291/github-readme-stats)
 </div>
 
