@@ -1,4 +1,4 @@
-Hi 👋🏻, Im Ben, I am a front-end developer with a passion for crafting flawless pixel-perfect websites and applications. I graduated from a coding bootcamp, where I gained a distinctive blend of technical expertise and creative finesse, enabling me to bring digital concepts to life. As a member of the Kayo Digital team, I continue to refine my skills and collaborate with talented professionals within the industry.
+Hi 👋🏻, Im Ben, I'm a highly motivated Full-Stack Developer with a frontend focus dedicated to delivering modern, scalable, and user-friendly digital solutions. I specialise in crafting pixel-perfect, responsive user interfaces and websites always prioritising performance and accessibility. With a strong understanding of UX principles, I excel at collaborating with designers and backend developers to create seamless experiences for both web applications and websites. Additionally, I have experience optimizing web performance, integrating APIs, and maintaining robust workflows to ensure efficient development processes.
 
 
 
