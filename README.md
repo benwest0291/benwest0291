@@ -1,4 +1,14 @@
-Hi 👋🏻, Im Ben, I'm a highly motivated Full-Stack Developer with a frontend focus dedicated to delivering modern, scalable, and user-friendly digital solutions. I specialise in crafting pixel-perfect, responsive user interfaces and websites always prioritising performance and accessibility. With a strong understanding of UX principles, I excel at collaborating with designers and backend developers to create seamless experiences for both web applications and websites. Additionally, I have experience optimizing web performance, integrating APIs, and maintaining robust workflows to ensure efficient development processes.
+I'm a passionate and versatile developer who loves creating responsive, high-quality websites and web apps that look great and just work.
 
+I focus on building pixel-perfect, user-friendly interfaces with a strong eye for design and performance. Whether it’s a sleek marketing site or a full-scale application, I enjoy bringing ideas to life with clean, modern code.
 
+🛠️ Tech I work with day-to-day:
+• Frontend: HTML, SCSS, Tailwind CSS, TypeScript/ JavaScript, Alpine.js
+• Frameworks: Angular (currently working with Angular 18), and a bit of React Native on the side
+• Backend: PHP, Laravel
+• CMS: Statamic (using Laravel under the hood), and Custom WordPress when needed
+
+I'm confident working across the full stack, but frontend is where I thrive—especially when I can combine creativity with technical problem-solving.
+
+🚀 Outside of work, I’m always building and learning. I enjoy exploring new tech, working on side projects, and sharpening my skills to stay current.
 
